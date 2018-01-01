@@ -1,0 +1,14 @@
+This folder should contain following files:
+
+ouluvs2allv1cropped.pgz
+ouluvs2allv1croppedcolor.pgz
+ouluvs2allv2cropped.pgz
+ouluvs2allv2croppedcolor.pgz
+ouluvs2allv3cropped.pgz
+ouluvs2allv3croppedcolor.pgz
+ouluvs2allv4cropped.pgz
+ouluvs2allv4croppedcolor.pgz
+ouluvs2allv5cropped.pgz
+ouluvs2allv5croppedcolor.pgz
+
+v1 to v5 refers to view1 to view5
