@@ -6,6 +6,5 @@ This repo contains Keras implementation of multi-view visual speech recognition,
 Based on Multi-task Learning, IEEE International Conference on Image Processing(ICIP), 2017.
 
 
-![Net11]
-(https://github.com/comc35/Multi-view_Lipreading/blob/master/img/net11.png)
+![Net11](https://github.com/comc35/Multi-view_Lipreading/blob/master/img/net11.png)
 
